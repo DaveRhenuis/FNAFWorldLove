@@ -1,4 +1,4 @@
---Here is all the actors from battle and overworld
+--Here is all the actors from battle
 
 --PUT EVERYTHING IMPORTANT FROM EVERY CHARACTER HERE!!!!
 

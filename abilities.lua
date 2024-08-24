@@ -1,8 +1,6 @@
 --MAKE ABILLITIES PROPERTIES TO INHERIT IN BATTLE
 abilities = {}
 
---1% for every 2 letters
-
 --REMEMBER TO ALWAYS ADD THE SCREEN SHAKE AND DAMAGE INDICATOR
 
 --red abilities

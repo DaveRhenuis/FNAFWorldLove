@@ -173,13 +173,6 @@ end
 
 --[[TODO LIST
 
-** FOR THE COMBAT, gameplay like Super Mario RPG but without turns, like original fnaf world, enemies global
-spawners per region, level cap 20, 4 abilities, you can swap your characters abilities according to the char ability pool
-
---Enemies 5 levels down don't give xp
-
---healthbars like battery fnaf 1
-
  ***DONT FORGET TO SIZE ALL SPRITES TO SCREEN SIZE%
 1-Create a menu / just missing most of menus, but should be able to create all menus if wanted
 2-Create a combat 
@@ -189,47 +182,41 @@ and abillities
 4-Create cutscenes -- DONE! first feature mostly done, just need to tune story and npcs locations according to story
 5-Create interactables/items -- 2/3 just need to put any new type of interactable in the types of objects in the world
 6-Create shop -- missing but should be easy to do
-7-Create gamemode -- 2/5 menus and overworld mostly done, missing boss/cutscene battle gamemode, battle gamemode,
-minigame gamemode (NEW CHARACTERS UNLOCKABLES THROUGH MINIGAMES!!!!!)
+7-Create gamemode -- 2/5 menus and overworld mostly done, missing boss/cutscene battle gamemode,
+minigame gamemode (new characters should be unlocked through minigames!)
 
-remember to give fredbear and golden freddy the GLITCH ATTACK (Original unscrew 2+ 30% of chance of insta-kill enemies
-AND BOSSES, but has 5% of chance of appearing in the attacks options every time he attacks (But has a base damage = 
-15% of boss current hp + 5% for every X amount of base attack damage), and if the enemy would have less than 30% hp left
-before the attack lands, the insta-kill is 100% chance)
-
-this attack should be a EXTRA ABILITY, making fredbear and golden freddy be the only ones to have 5 abillities.
-
-8-A map -- naaah, I don't think it's necessary, the player will have a warp, do that instead!
+8-A map -- naaah, I don't think it's necessary
 
 8.1- ZONE WARP (should be easy)
 8.2- On zone change, change background and music
 8.3- Add zone animations, like snow and sun
 
-**REMEMBER TO ADD BACKGROUND CHANGE/MUSIC CHANGE/SFX PLAY FOR CUTSCENES ACCORDING TO CUTSCENE PROGRESS IDK
-**REMEMBER TO ADD ANIMATED BACKGROUND TOO LOL
+IMPORTANT: CREATE DIFFERENT MAPS TO DIFFERENT ZONES TO PREVENT GAME LAG ISSUES!!!
 
-9-Create backpack for consumables that can be used in battle
+**REMEMBER TO ADD BACKGROUND CHANGE/MUSIC CHANGE/SFX PLAY FOR CUTSCENES ACCORDING TO CUTSCENE PROGRESS --absolutely doable
+**REMEMBER TO ADD ANIMATED BACKGROUND TOO -- doable as well
+
 9.1-You can equip chips and bytes on CHARACTERS, not as a global buff, wich can be purchased in shop or by finding secrets. 
-(characters can come with chips and bytes) 
 
-10- 2 ABSOLUTE SECRET characters: Glitchfreddy and Glitchbonnie
-
-11-Unlock mangle by buying specific animatronics parts and giving it to the big overworld endo to re-assemble mangle
+11-Unlock mangle by buying animatronics parts and giving it to Mendo to re-assemble mangle
 11.1-Unlock toy bonnie by getting max highscores in guitar-hero minigame, then he will challange you like tom morello
 11.2-Unlock toy chica by finding her cupcakes around the world (1 each zone)
-11.3-Unlock toy freddy by consuming X amount of pizzas
+11.3-Unlock toy freddy by throwing X amount of pizzas
 11.4-Unlock the puppet by finishing the game on normal
 11.5-Unlock golden freddy by finishing the game on hard
 11.6-Unlock spring bonnie by defeating every animatronic of the overworld
 11.7-Unlock springtrap by finishing the game on nuzlocke
 11.8-Unlock fredbear by getting all of his secrets (maybe getting all the above? 100% the game?)
-11.9-Unlock glitchfreddy by defeating him in the glitched world (random spawn chance) (he has a invisible picture in
-the character selection screen)
-11.10-Unlock Glitchbonnie by defeating him in the glitched world in nuzlocke
 
---DOTS: Mud, Water, Cheese
+NEW TODO LIST:
 
-healthbars with char picture, current time-to-action timer, and turn buffer! (turn buffer is like multiple characters can
-get a turn at the same time, and can accumulate up to 2 turns)
+1-Create all the game attacks, but actually balanced and better.
+2-Create more enemies.
+3-All of the previous todo list.
+4-Easter eggs
+5-New characters!
+6-Characters from the books! Pit Bonnie, Eleanor, Fetch, Stitchwraith, Faz-Goo, Ella, Ralpho (Bunny Call), Plushtrap Chaser (I don't have the ability to model/animate tho)
+7-Really cool new abilities
+8-Make the enemies move when attack
 
 ]]--

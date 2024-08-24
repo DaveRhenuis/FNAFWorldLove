@@ -23,7 +23,7 @@ sprites["Enemy"]["Void"]:getHeight())
 
 --No enemy have attack animation, so everything is a Idle animation, when they attack, just pause the
 --current frame, after attack end, continue animation (we could implement attack animations but
---idk how to pixel art nor blender animate, I'm just a programmer bro
+--idk how to pixel art nor blender animate, I'm just a programmer bro)
 animations["Enemy"] = {}
 animations["Enemy"]["Gearrat"] = anim8.newAnimation(grids["Enemy"]["Gearrat"]('1-10', 1), 0.05)
 animations["Enemy"]["Bouncepot"] = anim8.newAnimation(grids["Enemy"]["Bouncepot"]('1-10', 1), 0.05)

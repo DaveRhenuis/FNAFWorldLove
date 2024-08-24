@@ -139,13 +139,12 @@ function playerKeypressed(key)
 			end
 		end
 	end
-	
+	--spawn a battle!
 	if gameMode == 1 and key == "f" then
-		--remember to make a function that trigger a battle
 		canChangeMusic = 1
 		spawnBattle()
 	end
-	
+	--running shouldn't be allowed, bro
 	if gameMode == 2 and key == "escape" then
 		canChangeMusic = 1
 		gameMode = 1

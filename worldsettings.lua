@@ -6,7 +6,7 @@ worldBattle = windfield.newWorld(0, 0, false)
 worldBattle:setQueryDebugDrawing(true)
 	
 --overworld collisions	(anything that needs to be ignored by other classes
---needs to be declared first!
+--needs to be declared first!)
 worldBattle:addCollisionClass('Button', {ignores = {'Button'}})
 worldBattle:addCollisionClass('Enemy_attack', {ignores = {'Enemy_attack', 'Button'}})
 worldBattle:addCollisionClass('Actor_attack', {ignores = {'Enemy_attack', 'Actor_attack', 'Button'}})

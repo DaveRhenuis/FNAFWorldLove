@@ -323,6 +323,7 @@ function partyselectGUIdrawable()
 		(love.graphics:getHeight() * 0.88), 0, scale["Icons"]["X"], scale["Icons"]["Y"], 27, 37)
 	end
 
+	--for debugging
 	love.graphics.print(player.currentParty[1], 500, 500)
 	love.graphics.print(player.currentParty[2], 600, 500)
 	love.graphics.print(player.currentParty[3], 700, 500)
