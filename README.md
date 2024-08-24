@@ -27,6 +27,7 @@ Other used songs:
 
 Freddy Fazbear x The Amazing Digital Circus Theme: https://www.youtube.com/watch?v=DLX6aL_gydQ by SuperKek
 Himalayan Atmosphere: https://incompetech.com/music/royalty-free/music.html by Kevin Macleod
+Yu-Gi-Oh Life Points: https://www.youtube.com/watch?v=Ucxce_1nJgM
 
-All other assets are from the original FNAF World game, from Scott Cawthon.
-All of the code outside of the libraries folder was written by me (except conf.lua).
+All other assets are from the original FNAF World game, copyright of Scott Cawthon.
+All of the code outside of the libraries folder was written by me (except conf.lua, wich is a template).
