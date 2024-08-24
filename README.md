@@ -31,3 +31,5 @@ Yu-Gi-Oh Life Points: https://www.youtube.com/watch?v=Ucxce_1nJgM
 
 All other assets are from the original FNAF World game, copyright of Scott Cawthon.
 All of the code outside of the libraries folder was written by me (except conf.lua, wich is a template).
+
+IF YOU TRY TO CREATE AN EXECUTABLE, CHECK IF ANY FILES HAVE UPPER CASE EXTENSIONS, BECAUSE LOVE IS CASE SENSITIVE.
