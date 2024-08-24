@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "gameMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "gameMap.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 763,
+                "y": 377
+            }
+        },
+        "gameMap.tmx#axe": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#castle_1": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#grass": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#grass_2": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#grass_2_fade": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#log": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#tall_log": {
+            "scaleInDock": 1
+        },
+        "gameMap.tmx#trees": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Dell/Desktop/LOVE/FNaF World Love/maps",
+    "last.imagePath": "C:/Users/Dell/Desktop/LOVE/FNaF World Love/sprites/Overworld_sprites",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 50,
+    "map.tileWidth": 50,
+    "openFiles": [
+        "gameMap.tmx"
+    ],
+    "project": "gamemap.tiled-project",
+    "recentFiles": [
+        "gameMap.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 50,
+        "width": 50
+    }
+}
