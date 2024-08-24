@@ -7,7 +7,7 @@ After downloading all the files, put the game files from FNAF World Love into on
 
 Have fun modding the game!
 
-The code is being provided 'as it is', with most of my original comments for the functions, and I left my todo list in the main file as well.
+The code is being provided 'as it is', with most of my original comments for the functions.
 
 Libraries used:
 
